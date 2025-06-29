@@ -1,0 +1,15 @@
+Package: ISGM
+Title: Immunological Scoring Package
+Version: 0.1.0
+Authors@R: person("Simeon", "Nthuku", email = "simeon.nthuku@inserm.fr", role = c("aut", "cre"))
+Description: ISGM is a package that allows users to infer global microbiota immunostmulation from IgA-SEQ or MIG-SEQ sequencing data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0.0)
+Imports:
+    dplyr,
+    tidyr,
+    tibble,
+    reshape2,
+    ggplot2
