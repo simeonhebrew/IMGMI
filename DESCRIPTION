@@ -13,3 +13,5 @@ Imports:
     tibble,
     reshape2,
     ggplot2
+URL: https://github.com/simeonhebrew/ISGM
+BugReports: https://github.com/simeonhebrew/ISGM/issues
