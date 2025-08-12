@@ -25,3 +25,6 @@ d) Load the installed package
 library(IMGMI)
 
 ```
+
+## Usage
+
