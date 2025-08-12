@@ -8,11 +8,20 @@ type.
 
 ## Installation
 
-a) IMGMI inference is available through an R package. You can install R and R Studio if you have not yet installed them.
+IMGMI is available through as an R package. If you haven't yet, you can install R and R Studio before proceeding with installation.
 
-b) Download the `IMGMIndex_0.1.0.tar.gz` file available in the repository
+a) Download the `IMGMIndex_0.1.0.tar.gz` file that is provided in the repository
 
-c) In R or R Studio, run ```install.packages("IMGMIndex_0.1.0.tar.gz", repos = NULL, type = "source")```
+c) In R or R Studio, run:
 
+```
+install.packages("IMGMIndex_0.1.0.tar.gz", repos = NULL, type = "source")
 
+```
 
+d) Load the installed package 
+
+```
+library(IMGMI)
+
+```
